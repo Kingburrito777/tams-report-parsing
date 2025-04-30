@@ -41,7 +41,7 @@ The parser processes these reports from compressed (`.z`) or uncompressed (`.PF`
 1. Clone the repository or copy the project files to your local machine:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Kingburrito777/tams-report-parsing.git
    cd tams-report-parser
    ```
 2. Install dependencies (if any additional packages are added in the future):
